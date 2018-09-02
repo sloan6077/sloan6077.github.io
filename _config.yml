@@ -48,14 +48,14 @@ kramdown:
  disqus_username: sloan6077
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: a431efca58f7d1c35018                            #生成的clientID
-  clientSecret: f368c2374ae2288886e6eb567f4865d9b248f25f    #生成的clientSecret
-  repo: sloan6077.github.io    #仓库名称
-  owner: sloan6077    #github用户名
-  admin: sloan6077
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: a431efca58f7d1c35018                            #生成的clientID
+  #clientSecret: f368c2374ae2288886e6eb567f4865d9b248f25f    #生成的clientSecret
+  #repo: sloan6077.github.io    #仓库名称
+  #owner: sloan6077    #github用户名
+  #admin: sloan6077
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
