@@ -45,7 +45,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
- disqus_username: sloan6077
+ #disqus_username: sloan6077
 
 # Gitalk
 #gitalk:
