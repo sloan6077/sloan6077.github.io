@@ -1,10 +1,10 @@
 # Site settings
 title: sloan6077 Blog
-SEOTitle: 中伯通的博客 | BY Blog
+SEOTitle: sloan6077的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: sloan6077@gmail.com
 description: "Every failure is leading towards success."
-keyword: "sloan6077, sloan6077 Blog, 中伯通的博客, sloan6077, 中伯通, iOS, Apple, iPhone"
+keyword: "sloan6077, sloan6077 Blog, sloan6077的博客, sloan6077"
 url: "http://sloan6077.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sloan6077/sloan6077.github.io.git" # you code repository
